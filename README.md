@@ -1,2 +1,2 @@
 # SpringCoreDemo
-Created basic demo for Spring core.
+created sample of xml based spring application
